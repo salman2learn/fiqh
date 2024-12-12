@@ -99,39 +99,11 @@ If bandage cannot be opened:
 
 
 
-
-
-```mermaid
-graph TD;
-
-```
-
 Tayammum and Masah are temporary replacement for Wudu.
 
 Anything that breaks wudu, invalidates Tayammum and Masah.
 
 e.g. if bath becomes required (hadas akbar), the person must take bath while protecting the injury (e.g. plastic cover)
-
-```mermaid
-graph LR;
-
-111
-```
-
-
-
-```
-graph LR
-start([start of workflow]) --> process1(Data Downlaoder) --> db[(Database)]
-webapp[My UI] --save to db--> db
-cloud((Internet))
-subgraph for DMZ
-    process1 ==> |wget|cloud
-end
-process1 --> decision{Should notify user} ..-> note1
-note1>This is a cool note]
-
-```
 
 
 

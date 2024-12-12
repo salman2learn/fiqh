@@ -24,9 +24,9 @@ Book page: 124 (important principles)
 Fasiq = gunah, but not kafir
 
 ```mermaid
-graph L;
-f[Farz-Ain] -- at least one person --> f2[Farz-e-Kifaya] --ex--> f3[Namaz-e-janaza]
-f --> w[Wajib] --ex--> w2[Eid namaz]
+flowchart LR;
+f[Farz-Ain] -- at least one person --> f2[Farz-e-Kifaya] --ex --> f3[Namaz-e-janaza]
+f --> w[Wajib] --ex --> w2[Eid namaz]
 w --> s[Sunnat e Mokida]
 ```
 
