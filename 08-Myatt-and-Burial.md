@@ -92,8 +92,9 @@ Items:
 8. Do the other side (3x)
 9. Make the person sit a bit, and then press stomach to release body fluid. No need to do qusl again, if they release.
 10. Now flow kafoor water from head to toe 3x on each side tilted.
-11. Put kafan cloth on carrying casket, and put body on it gently. 
-12. Remove cotton from nose, ear, mouth.
+11. Dry the body
+12. Put kafan cloth on carrying casket (steps below), and put body on it gently. 
+13. Remove cotton from nose, ear, mouth.
 
 Notes:
 
@@ -120,7 +121,7 @@ Notes:
 - By Age:
   - Young adults have same kafan as adults
   - Babies or young kids can have fewer cloth: one cloth (boy) and two cloths (girl)
-- After wrapping in kafan, it is important to hide person face if its woman, but not for men. That cover sheet is not part of kafan. 
+- After wrapping in kafan, it is important to hide person face if its woman, but not for men (preferable to avoid non-mahram seeing him). That cover sheet is not part of kafan. 
 
 
 
@@ -130,21 +131,29 @@ Notes:
 2. Sufficient (kafan-kifayat) - minimally required
 3. Needed (kafan zaroorata) - in case if no choice; anything that can cover the satar (parts to hide)
 
-| Applies to  | Part           | Descr                                                        | Sunnat | Sufficient |
-| ----------- | -------------- | ------------------------------------------------------------ | ------ | ---------- |
-| Men & Women | 1. Izaar       | Cloth sheet head to toe                                      | Y      | Y          |
-| Men & Women | 2. Lifafa      | Cloth sheet with length > 1.5ft of izaar                     | Y      | Y          |
-| Men & Women | 3. Kurta       | Shirt from neck to feet; without arms or kali (open from sides??) -- 2 pieces ?? | Y      |            |
-| Women       | 4. Chest cover | Cloth sheet to wrap from armpits to legs or bellybutton.     | Y      |            |
-| Women       | 5. Head cover  | Same as dupatta or orh-nee                                   | Y      | Y          |
+| Applies to  | Part           | Descr                                                        | Dims*           | Sunnat | Sufficient |
+| ----------- | -------------- | ------------------------------------------------------------ | --------------- | ------ | ---------- |
+| Men & Women | 1. Izaar       | Cloth sheet head to toe                                      | 2.1m x 1.5m     | Y      | Y          |
+| Men & Women | 2. Lifafa      | Cloth sheet with length > 1.5ft of izaar                     | 2.4m x 1.5m     | Y      | Y          |
+| Men & Women | 3. Kurta       | Shirt from neck to feet; without arms or kali (open from sides??) -- (*T-shape cut for the neck)![image-20241212061740704](assets/08-Myatt-and-Burial/image-20241212061740704.png) | 1.5m x 1.2-1.5m | Y      |            |
+| Women       | 4. Chest cover | Cloth sheet to wrap from armpits to legs or bellybutton.     | 2.1m x 1.5m     | Y      |            |
+| Women       | 5. Head cover  | Same as dupatta or orh-nee                                   |                 | Y      | Y          |
+
+ref: https://www.islamicburials.com/whsng-shrdng
+
+
 
 **Steps to put on kafan** (men)
 
-1. Lay **lifafa** first. 
+1. Spread **lifafa** first in casket (this is the longer sheet).
 2. Lay **izaar** on it.
-3. Lay **kurta** bottom piece on it (??). Keep kurta top portion above head place. 
+3. Lay **kurta** bottom piece on it (??). Keep kurta top portion above head side.
 4. Put body from qusl board on top of kafan
 5. Flip kurta top portion, so it fits around the neck and flows downwards
+   1. Think about steps how to dress the kurta on a person
+   2. Spread kurta. Lay the person on the kurta while putting head in the T-shape opening area.
+   3. Now flip kurta top portion on the front of the body, while fitting neck in the opening.
+
 6. Remove thick cloth that was placed on satar during qusl
 7. Put itr/fragrance on body head etc. (Male should not wear saffron smell ??)
 8. Rub kafoor on all parts that touch floor when doing sajda (forhead, nose, palms, knees, feet)
@@ -169,7 +178,7 @@ Notes:
 - For adults, move casket headside first.
 - Use hands and shoulders to carry. Do not hold on neck or back. 
 - If there is reason, use vehicle or other transport as necessary. (i.e. shorter distance should be by humans)
-- **Walking method: (preference via hadees: minimal 40 step combination)**
+- **Walking method: (preference via hadees: minimal 40 step total)**
   - Start with person right side towards head. Walk 10 steps. 
   - Then right side towards feet. Walk 10 steps. 
   - Then go to left side towards head. Walk 10 steps. 
@@ -187,7 +196,8 @@ Notes:
 - DO NOT **loudly** recite kalma or dua while walking. (biddat). 
   - Okay to do in heart ?????
 - Do not sit down in the middle, if there is no resonable excuse
-- Folks who are watching janazah from the side, they should not stand for janazah. 
+- Folks who are watching janazah from the side, they should not stand for janazah.
+- Preferable: take person to grave soon. Do not travel long distances.
 
 
 
@@ -201,24 +211,25 @@ Notes:
 
 - **Conditions for person praying:** (All same conditions as regular namaz) + some conditions
   - Additional condition: the praying person must be aware of the death
-  - Tayammum: (to read about if regular prayer time is ending ??? tayammum not allowed ??)
-    - Wali (closet person) of janazah must do wudu (cannot do just tayammum). They can do another namaz e janazah later.
+  - Tayammum: (to study further: about if regular prayer time is ending ??? tayammum not allowed ??)
+    - Wali (closet person???) of janazah must do wudu (cannot do just tayammum). They can do another namaz e janazah later.
     - Non-wali of janazah can do tayammum, if there is risk of missing namaz e janazah
   
 - **Conditions for dead person:**
-  1. Person must be muslim except:
+  1. Person must be muslim
+  2. Not do Namaz-e-janazah for these exceptions:
      1. person who died doing treason fight
      2. person who died during robbery 
      3. person who died while inciting violence
      4. person who killed parents
      5. **Note:** If above exception folks are caught, and then killed or die on their own, then namaz-e-janazah is required (except for person who killed parents)
-     6. Namaz e janazah is okay to do for person who did suicide
-  2. Body must be clean of nijazat haqiqi and hukmia (both) - (see [link](06-Nijasatain.md))
+  3. Namaz e janazah is okay to do for person who did suicide
+  4. Body must be clean of nijazat haqiqi and hukmia (both) - (see [link](06-Nijasatain.md))
      1. If body has nijasat leaking after qusl, then its okay to do namaz
-  3. Body must be present there for namaz e janazah
-  4. Body must have satar covered (parts to be hidden)
-  5. Body must be in front of namaz, not behind
-  6. Body casket must be not be lifted by humans or animals etc, without any excuse
+  5. Body must be present there for namaz e janazah
+  6. Body must have satar covered (parts to be hidden)
+  7. Body must be in front of namaz, not behind
+  8. While doing namaz, body casket must be not be lifted by humans or animals etc, without any excuse
   
   
   
@@ -262,7 +273,14 @@ Dua for forgiveness:
 
 ### Tadfeen
 
-Dua when placing in qabr (grave):
+Dua when lowering in the qabr (grave):
+
+| Recitation                | Meaning                                           |
+| ------------------------- | ------------------------------------------------- |
+| Bismillah                 | Starting in the name of Allah (with Allah's help) |
+| Wa-ala Millati RasulAllah | And with the practices of Prophet                 |
+
+
 
 <img src="assets/08-Myatt-and-Burial/image-20241211102613785.png" alt="image-20241211102613785" style="zoom: 67%;" />
 
@@ -272,8 +290,23 @@ Full body turn towards qibla (not just face)
 
 Untie the knots of kafan, which were placed to keep it still while moving.
 
-When putting soil 3 hands full:
+When putting soil 3 hands full, recite:
+
+| Recitation                           | Meaning                                        |
+| ------------------------------------ | ---------------------------------------------- |
+| Minha Khalaqnakum                    | From this (earth), We created you              |
+| Wa-fe-ha Nu-ee-dukum                 | And into it, We shall return you               |
+| We-minha Nukh-ri-jukum Taratan Ukhra | And from it, We shall bring you out once again |
 
 <img src="assets/08-Myatt-and-Burial/image-20241211102900331.png" alt="image-20241211102900331" style="zoom: 67%;" />
 
 <img src="assets/08-Myatt-and-Burial/image-20241211103026087.png" alt="image-20241211103026087" style="zoom:67%;" />
+
+### After burial:
+
+- Preferable: Stay near grave for a little while and do dua for forgiveness of the person.
+  - Our Prophet used to do dua for that person, that he/she stays steadfast when answering Munkir/Nakeer questions. And advised others to do same dua too.
+  - Prefer to face towards qibla when doing dua, instead of grave 
+- Preferable Quran recitation:
+  - Surah baqarah first ruku, near head side of grave
+  - Surah baqarah last ruku, near feet side of grave
